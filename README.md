@@ -8,3 +8,7 @@ It covers various real world medical problems including:
 * Predict patient survival rates more accurately using tree-based models
 * Estimate treatment effects on patients using data from randomized trials
 * Automate the task of labeling medical datasets using natural language processing
+
+Contents:
+
+* [Chest X-Ray Medical Diagnosis](https://github.com/dsinas/AI4M/tree/master/Chest%20X-Ray%20Medical%20Diagnosis)
