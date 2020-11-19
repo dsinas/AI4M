@@ -12,3 +12,4 @@ It covers various real world medical problems including:
 Contents:
 
 * [Chest X-Ray Medical Diagnosis](https://github.com/dsinas/AI4M/tree/master/Chest%20X-Ray%20Medical%20Diagnosis)
+* [Evaluation of Diagnostic Models](https://github.com/dsinas/AI4M/tree/master/Evaluation%20of%20Diagnostic%20Models)
