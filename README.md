@@ -1,5 +1,5 @@
 # AI for Medicine
-<br>
+
 This repository contains course projects and assignments of the [AI for Medicine Specialization](https://www.deeplearning.ai/ai-for-medicine/). The specialization offers practical experience applying machine learning and state-of-the-art deep learning to concrete problems in medicine. <br>
 
 It covers various real world medical problems including:
