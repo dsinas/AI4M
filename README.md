@@ -9,8 +9,13 @@ It covers various real world medical problems including:
 * Estimate treatment effects on patients using data from randomized trials
 * Automate the task of labeling medical datasets using natural language processing
 
-Contents:
+## Contents:
 
-* [Chest X-Ray Medical Diagnosis](https://github.com/dsinas/AI4M/tree/master/Chest%20X-Ray%20Medical%20Diagnosis)
-* [Evaluation of Diagnostic Models](https://github.com/dsinas/AI4M/tree/master/Evaluation%20of%20Diagnostic%20Models)
-* [Brain Tumor Auto-Segmentation for MRI](https://github.com/dsinas/AI4M/tree/master/Brain%20Tumor%20Auto-Segmentation%20for%20MRI)
+> ### Diagnosis
+
+> [Chest X-Ray Medical Diagnosis](https://github.com/dsinas/AI4M/tree/master/Chest%20X-Ray%20Medical%20Diagnosis)
+> [Evaluation of Diagnostic Models](https://github.com/dsinas/AI4M/tree/master/Evaluation%20of%20Diagnostic%20Models)
+> [Brain Tumor Auto-Segmentation for MRI](https://github.com/dsinas/AI4M/tree/master/Brain%20Tumor%20Auto-Segmentation%20for%20MRI)
+
+> ### Prognosis
+> [Build and Evaluate a Linear Risk model](https://github.com/dsinas/AI4M/tree/master/Build%20and%20Evaluate%20a%20Linear%20Risk%20model)
