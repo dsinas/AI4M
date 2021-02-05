@@ -20,5 +20,9 @@ It covers various real world medical problems including:
 
 > [Brain Tumor Auto-Segmentation for MRI](https://github.com/dsinas/AI4M/tree/master/Brain%20Tumor%20Auto-Segmentation%20for%20MRI)
 
+
 > ### Prognosis
+
 > [Build and Evaluate a Linear Risk model](https://github.com/dsinas/AI4M/tree/master/Build%20and%20Evaluate%20a%20Linear%20Risk%20model)
+
+> [Risk Models Using Tree-based Models](https://github.com/dsinas/AI4M/tree/master/Risk%20Models%20Using%20Tree-based%20Models)
